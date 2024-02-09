@@ -9,9 +9,11 @@ Approach
 
 Extracted data from CSV files using **Pandas** to kickstart our analysis journey.
 Ensured data integrity by meticulously examining column structures and handling null values with finesse.
+
 **Exploratory Data Analysis (EDA):**
 
 Delved deep into the data to uncover hidden patterns and trends.
 Visualized key metrics using Matplotlib and Seaborn to gain actionable insights at a glance.
+
 **Statistical Analysis:**
-Result:- This will help the  organization in taking useful decisions
+**Result**:- This will help the  organization in taking useful decisions
