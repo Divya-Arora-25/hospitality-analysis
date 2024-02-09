@@ -5,8 +5,8 @@ Welcome to  My Hotel Management Analytics project! 🚀 In this repository, I di
 Hotels are bustling hubs of activity, but understanding guest behavior and optimizing resource allocation can be challenging. My mission is to leverage data-driven insights to enhance decision-making, improve occupancy rates, and elevate guest experience
 
  Approach:   
-Data Extraction and Preprocessing
-Exploratory Data Analysis (EDA)
+Data Extraction and Preprocessing,
+Exploratory Data Analysis (EDA),
 Statistical Analysis
-Result:
-     This will help the  organization in taking useful decisions
+ `  Result:
+        This will help the  organization in taking useful decisions
